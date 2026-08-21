@@ -4,7 +4,7 @@
 ![AUR votes](https://img.shields.io/aur/votes/mint-backgrounds-qiana)
 
 This repository contains build files to build the Arch Linux package `mint-backgrounds-qiana`. Instead of building the
-package yourself, it can also be obtained from the following private repository. The section [*Obtaining pre-build
+package yourself, it can also be obtained from the following private repository. The section [*Obtaining pre-built
 packages from a repository*](#obtaining-pre-built-packages-from-a-repository) describes all necessary steps.
 
 ## Build
